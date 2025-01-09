@@ -2,7 +2,7 @@
 CSCI-338 Computer Theory
 
 ## Course schedule
-The schedule, assignments and grade weights are subjected to change.
+The schedule, assignments and grade weights are subjected to change. Changes will be made to the following table after each lecture.
 
 | Lecture # 	|    Date    	|             Assignment/Test                 	| Resources/Due 	                                |
 |:---------:	|:----------:	|:-------------------------------------------:	|:-------------------------------------------------:|
