@@ -4,6 +4,58 @@ CSCI-338 Computer Theory
 ## Course schedule
 The schedule, assignments and grade weights are subjected to change.
 
+| Lecture # 	|    Date    	|             Assignment/Test                 	| Resources/Due 	                                |
+|:---------:	|:----------:	|:-------------------------------------------:	|:-------------------------------------------------:|
+|     1     	| Wed-Jan-15 	|          Course overview and basics         	|           	                                    |
+|     2     	| Fri-Jan-17 	|                    basics                   	|           	                                    |
+|           	| Mon-Jan-20 	|              Martin L. King Day             	|           	                                    |
+|     3     	| Wed-Jan-22 	|                    basics                   	|           	                                    |
+|     4     	| Fri-Jan-24 	|                    basics                   	|           	                                    |
+|     5     	| Mon-Jan-27 	|              Regular languages              	|           	                                    |
+|     6     	| Wed-Jan-29 	|              Regular languages              	| Assignment 1          	                        |
+|     7     	| Fri-Jan-31 	|              Regular languages              	|           	                                    |
+|     8     	| Mon-Feb-03 	|              Regular languages              	|           	                                    |
+|     9     	| Wed-Feb-05 	|              Regular languages              	|           	                                    |
+|     10    	| Fri-Feb-07 	|              Regular languages              	|           	                                    |
+|     11    	| Mon-Feb-10 	|                Pumping lemma                	|           	                                    |
+|     12    	| Wed-Feb-12 	|          Pumping lemma applications         	|           	                                    |
+|     13    	| Fri-Feb-14 	|          Pumping lemma applications         	|           	                                    |
+|           	| Mon-Feb-17 	|               Presidents day                	|           	                                    |
+|     14    	| Wed-Feb-19 	|            Context-free languages           	|           	                                    |
+|     15    	| Fri-Feb-21 	|            Context-free languages           	|           	                                    |
+|     16    	| Mon-Feb-24 	| Test 1 (Tentative, I might change the date) 	|           	                                    |
+|     17    	| Wed-Feb-26 	|                   PDA=CFL                   	|           	                                    |
+|     18    	| Fri-Feb-28 	|            Pumping Lemma for CFL            	|           	                                    |
+|     19    	| Mon-Mar-03 	|            Pumping Lemma for CFL            	|           	                                    |
+|     20    	| Wed-Mar-05 	|                 Countability                	|           	                                    |
+|     21    	| Fri-Mar-07 	|    Diagonalization, Church turing thesis    	|           	                                    |
+|     22    	| Mon-Mar-10 	|               Turing machines               	|           	                                    |
+|     23    	| Wed-Mar-12 	|                 Decidability                	|           	                                    |
+|     24    	| Fri-Mar-14 	|                 Decidability                	|           	                                    |
+|           	| Mon-Mar-17 	|                                             	|           	                                    |
+|           	| Wed-Mar-19 	|                 Spring break                	|           	                                    |
+|           	| Fri-Mar-21 	|                                             	|           	                                    |
+|     25    	| Mon-Mar-24 	|                Undecidability               	|           	                                    |
+|     26    	| Wed-Mar-26 	|                 Reducability                	|           	                                    |
+|     27    	| Fri-Mar-28 	|                 Reducability                	|           	                                    |
+|     28    	| Mon-Mar-31 	|                 Reducability                	|           	                                    | 
+|     29    	| Wed-Apr-02 	|                 Reducability                	|           	                                    |
+|     30    	| Fri-Apr-04 	|                     PCP                     	|           	                                    |
+|     31    	| Mon-Apr-07 	|                Test 2 review                	|           	                                    |
+|     32    	| Wed-Apr-09 	| Test 2 (Tentative, I might change the date) 	|           	                                    |
+|     33    	| Fri-Apr-11 	|                  Class of P                 	|           	                                    |
+|     34    	| Mon-Apr-14 	|                      DP                     	|           	                                    |
+|     35    	| Wed-Apr-16 	|                      NP                     	|           	                                    |
+|           	| Fri-Apr-18 	|                University Day               	|           	                                    |
+|     36    	| Mon-Apr-21 	|             Polynomial reduction            	|           	                                    |
+|     37    	| Wed-Apr-23 	|             Polynomial reduction            	|           	                                    |
+|     38    	| Fri-Apr-25 	| Test 3 (Tentative, I might change the date) 	|           	                                    |
+|     39    	| Mon-Apr-28 	|                 Buffer days                 	|           	                                    |
+|     40    	| Wed-Apr-30 	|                 Buffer days                 	|           	                                    |
+|     41    	| Fri-May-02 	|                 Buffer days                 	|           	                                    |
+|     42    	| Mon-May-05 	|                    Finals                   	|           	                                    |
+|     43    	| Wed-May-07 	|                      -                      	|           	                                    | 
+
 ## Description
 - 3 credits
 - Prerequisites: CSCI 232 and CSCI 246.
