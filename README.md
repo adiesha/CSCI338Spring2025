@@ -6,8 +6,8 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 
 | Lecture # 	|    Date    	|             Assignment/Test                 	| Resources/Due 	                                |
 |:---------:	|:----------:	|:-------------------------------------------:	|:-------------------------------------------------:|
-|     1     	| Wed-Jan-15 	|          Course overview and basics         	|           	                                    |
-|     2     	| Fri-Jan-17 	|                    basics                   	|           	                                    |
+|     1     	| Wed-Jan-15 	|          [Course overview and basics](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture01/Introduction.pptx)         	|           	                                    |
+|     2     	| Fri-Jan-17 	|[Basic Structures](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture02-BasicStructures/Lecture02-Basic_Structures.pdf)|           	                                    Ch 0|
 |           	| Mon-Jan-20 	|              Martin L. King Day             	|           	                                    |
 |     3     	| Wed-Jan-22 	|                    basics                   	|           	                                    |
 |     4     	| Fri-Jan-24 	|                    basics                   	|           	                                    |
