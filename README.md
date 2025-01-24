@@ -9,8 +9,8 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 |     1     	| Wed-Jan-15 	|          [Course overview and basics](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture01/Introduction.pptx)         	|           	                                    |
 |     2     	| Fri-Jan-17 	|[Basic Structures](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture02-BasicStructures/Lecture02-Basic_Structures.pdf)|           	                                    Ch 0|
 |           	| Mon-Jan-20 	|              Martin L. King Day             	|           	                                    |
-|     3     	| Wed-Jan-22 	|                    basics                   	|           	                                    |
-|     4     	| Fri-Jan-24 	|                    basics                   	|           	                                    |
+|     3     	| Wed-Jan-22 	| [Functions, Relations, And Proofs](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture03-FunctionsRelationsandMore/Lecture%2001%20recap%20basic%20structures_250123_000751.pdf)                   	|           	                                    |
+|     4     	| Fri-Jan-24 	| [FinalRecap_and_exercises](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture04-FinalRecap_and_exercises/Lecture%2001%20recap%20basic%20structures_250124_135249.pdf)                   	|           	                                    |
 |     5     	| Mon-Jan-27 	|              Regular languages              	|           	                                    |
 |     6     	| Wed-Jan-29 	|              Regular languages              	| Assignment 1          	                        |
 |     7     	| Fri-Jan-31 	|              Regular languages              	|           	                                    |
