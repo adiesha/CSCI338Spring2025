@@ -11,9 +11,9 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 |           	| Mon-Jan-20 	|              Martin L. King Day             	|           	                                    |
 |     3     	| Wed-Jan-22 	| [Functions, Relations, And Proofs](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture03-FunctionsRelationsandMore/Lecture%2001%20recap%20basic%20structures_250123_000751.pdf)                   	|           	                                    |
 |     4     	| Fri-Jan-24 	| [FinalRecap_and_exercises](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture04-FinalRecap_and_exercises/Lecture%2001%20recap%20basic%20structures_250124_135249.pdf)                   	|           	                                    |
-|     5     	| Mon-Jan-27 	|              Regular languages              	|           	                                    |
-|     6     	| Wed-Jan-29 	|              Regular languages              	| Assignment 1          	                        |
-|     7     	| Fri-Jan-31 	|              Regular languages              	|           	                                    |
+|     5     	| Mon-Jan-27 	|              [Planar graphs, DFA, Regular languages](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture05-PlanarGraphsAndIntroToFiniteAutomatons/Lecture%2005PlanarGrAndfinitestateautomaton_250128_111005.pdf)              	|           	                     Ch1               |
+|     6     	| Wed-Jan-29 	|              [DFA, Regular languages](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture06-DFA/lec06_DFA_250129_123919.pdf)              	| Ch1          	                        |
+|     7     	| Fri-Jan-31 	|              Regular languages              	| Assignment 1          	                                    |
 |     8     	| Mon-Feb-03 	|              Regular languages              	|           	                                    |
 |     9     	| Wed-Feb-05 	|              Regular languages              	|           	                                    |
 |     10    	| Fri-Feb-07 	|              Regular languages              	|           	                                    |
