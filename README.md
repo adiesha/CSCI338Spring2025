@@ -74,10 +74,13 @@ This course meets on Mondays, Wednesdays, and Fridays from 11:00 a.m. to 11:50 a
 
 # Instructor
 - Adiesha Liyanage
-  * Office hours: TBD
+  * Monday 12:15pm - 2:15pm
+  * Friday 12:15pm - 1:15pm
+  * BARNARD 349
 
 ## Course Assistants
-TBA
+- Gideon Popoola
+- Mondays, 2pm - 4pm
 
 ## Grading
 Since this is a theory course, the majority of your grade comes from assignments, tests, and a final.
