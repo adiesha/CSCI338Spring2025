@@ -19,7 +19,7 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 |     10    	| Fri-Feb-07 	|              Regular languages              	|           	                                    |
 |     11    	| Mon-Feb-10 	|                Pumping lemma                	|           	                                    |
 |     12    	| Wed-Feb-12 	|          Pumping lemma applications         	|           	                                    |
-|     13    	| Fri-Feb-14 	|          Pumping lemma applications         	|           	                                    |
+|     13    	| Fri-Feb-14 	|          Pumping lemma applications         	| Assignment 02                                  |
 |           	| Mon-Feb-17 	|               Presidents day                	|           	                                    |
 |     14    	| Wed-Feb-19 	|            Context-free languages           	|           	                                    |
 |     15    	| Fri-Feb-21 	|            Context-free languages           	|           	                                    |
