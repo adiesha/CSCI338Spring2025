@@ -14,8 +14,8 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 |     5     	| Mon-Jan-27 	|              [Planar graphs, DFA, Regular languages](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture05-PlanarGraphsAndIntroToFiniteAutomatons/Lecture%2005PlanarGrAndfinitestateautomaton_250128_111005.pdf)              	|           	                     Ch1               |
 |     6     	| Wed-Jan-29 	|              [DFA, Regular languages](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture06-DFA/lec06_DFA_250129_123919.pdf)              	| Ch1          	                        |
 |     7     	| Fri-Jan-31 	|              [DFA and Intro to NFA](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture07-DFA_and_Into_toNFA/Lecture07-DFA_and_Into_toNFA_updated.pdf)              	| Assignment 1          	                                    |
-|     8     	| Mon-Feb-03 	|              [DFA=NFA](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture08_NFA_EQ_DFA/Lecture08_NFA_EQ_DFA.pdf)              	|           	                                    |
-|     9     	| Wed-Feb-05 	|              Regular languages              	|           	                                    |
+|     8     	| Mon-Feb-03 	|              [DFA=NFA](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture08_NFA_EQ_DFA/Lecture08_NFA_EQ_DFA_updated.pdf)              	|           	                                    |
+|     9     	| Wed-Feb-05 	|              [NFA and Related Proofs](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture09_NFA_And_Related_proofs/Lecture09_NFA_And_Related_proofs.pdf)              	|           	                                    |
 |     10    	| Fri-Feb-07 	|              Regular languages              	|           	                                    |
 |     11    	| Mon-Feb-10 	|                Pumping lemma                	|           	                                    |
 |     12    	| Wed-Feb-12 	|          Pumping lemma applications         	|           	                                    |
