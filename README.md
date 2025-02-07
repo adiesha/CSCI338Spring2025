@@ -16,7 +16,7 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 |     7     	| Fri-Jan-31 	|              [DFA and Intro to NFA](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture07-DFA_and_Into_toNFA/Lecture07-DFA_and_Into_toNFA_updated.pdf)              	| Assignment 1          	                                    |
 |     8     	| Mon-Feb-03 	|              [DFA=NFA](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture08_NFA_EQ_DFA/Lecture08_NFA_EQ_DFA_updated.pdf)              	| Ch1          	                                    |
 |     9     	| Wed-Feb-05 	|              [NFA and Related Proofs](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture09_NFA_And_Related_proofs/Lecture09_NFA_And_Related_proofs.pdf)              	|   Ch1        	                                    |
-|     10    	| Fri-Feb-07 	|              Regular languages              	|           	                                    |
+|     10    	| Fri-Feb-07 	|              [Regular Expressions=Regular Languages](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture10_Regular_Expressions/Lecture10_Regular_Expressions_250207_115010.pdf)              	|   Ch1        	                                    |
 |     11    	| Mon-Feb-10 	|                Pumping lemma                	|           	                                    |
 |     12    	| Wed-Feb-12 	|          Pumping lemma applications         	|           	                                    |
 |     13    	| Fri-Feb-14 	|          Pumping lemma applications         	| Assignment 02                                  |
