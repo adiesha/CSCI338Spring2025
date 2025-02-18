@@ -23,7 +23,7 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 |           	| Mon-Feb-17 	|               Presidents day                	|           	                                    |
 |     14    	| Wed-Feb-19 	|            Context-free languages           	|           	                                    |
 |     15    	| Fri-Feb-21 	|            Context-free languages           	|           	                                    |
-|     16    	| Mon-Feb-24 	| Test 1 (Tentative, I might change the date) 	|           	                                    |
+|     16    	| Mon-Feb-24 	| Test 1  	|           	                                    |
 |     17    	| Wed-Feb-26 	|                   PDA=CFL                   	|           	                                    |
 |     18    	| Fri-Feb-28 	|            Pumping Lemma for CFL            	|           	                                    |
 |     19    	| Mon-Mar-03 	|            Pumping Lemma for CFL            	|           	                                    |
