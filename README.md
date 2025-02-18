@@ -17,9 +17,9 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 |     8     	| Mon-Feb-03 	|              [DFA=NFA](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture08_NFA_EQ_DFA/Lecture08_NFA_EQ_DFA_updated.pdf)              	| Ch1          	                                    |
 |     9     	| Wed-Feb-05 	|              [NFA and Related Proofs](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture09_NFA_And_Related_proofs/Lecture09_NFA_And_Related_proofs.pdf)              	|   Ch1        	                                    |
 |     10    	| Fri-Feb-07 	|              [Regular Expressions=Regular Languages](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture10_Regular_Expressions/Lecture10_Regular_Expressions_250207_115010.pdf)              	|   Ch1        	                                    |
-|     11    	| Mon-Feb-10 	|                Pumping lemma                	|           	                                    |
-|     12    	| Wed-Feb-12 	|          Pumping lemma applications         	|           	                                    |
-|     13    	| Fri-Feb-14 	|          Pumping lemma applications         	| Assignment 02                                  |
+|     11    	| Mon-Feb-10 	|                [DFA TO REG_EX](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture11_DFA_TO_REG_EX/Lecture11_DFA_TO_REG_EX.pdf)                	|           	                                    |
+|     12    	| Wed-Feb-12 	|          [Pumping lemma](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture12_Pumping_Lemma/Lecture12_Pumping_Lemma_250213_114940.pdf)         	|           	                                    |
+|     13    	| Fri-Feb-14 	|          [Pumping lemma applications](https://github.com/adiesha/CSCI338Spring2025/tree/master/Notes/Lecture13_Pumping_lemma_Applications)         	| Assignment 02                                  |
 |           	| Mon-Feb-17 	|               Presidents day                	|           	                                    |
 |     14    	| Wed-Feb-19 	|            Context-free languages           	|           	                                    |
 |     15    	| Fri-Feb-21 	|            Context-free languages           	|           	                                    |
