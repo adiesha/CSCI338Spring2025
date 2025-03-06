@@ -21,12 +21,12 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 |     12    	| Wed-Feb-12 	|          [Pumping lemma](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture12_Pumping_Lemma/Lecture12_Pumping_Lemma_250213_114940.pdf)         	|           	                                    |
 |     13    	| Fri-Feb-14 	|          [Pumping lemma applications](https://github.com/adiesha/CSCI338Spring2025/tree/master/Notes/Lecture13_Pumping_lemma_Applications)         	| Assignment 02                                  |
 |           	| Mon-Feb-17 	|               Presidents day                	|           	                                    |
-|     14    	| Wed-Feb-19 	|            Context-free languages           	|           	                                    |
-|     15    	| Fri-Feb-21 	|            Context-free languages           	|           	                                    |
+|     14    	| Wed-Feb-19 	|            [Context-free grammar and continuation of pumping lemma application](https://github.com/adiesha/CSCI338Spring2025/tree/master/Notes/Lecture14_Pumping_lemma_Applications_cont)           	|           	                                    |
+|     15    	| Fri-Feb-21 	|            [CFG](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture15_CFG/context-free%20Grammar_250226_154814.pdf)           	|           	                                    |
 |     16    	| Mon-Feb-24 	| Test 1  	|           	                                    |
-|     17    	| Wed-Feb-26 	|                   PDA=CFL                   	|           	                                    |
-|     18    	| Fri-Feb-28 	|            Pumping Lemma for CFL            	|           	                                    |
-|     19    	| Mon-Mar-03 	|            Pumping Lemma for CFL            	|           	                                    |
+|     17    	| Wed-Feb-26 	|                   [CFG and ambiguity](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture16_CFL_cont/CFG%20cont%20_250226_115110.pdf)                   	|           	                                    |
+|     18    	| Fri-Feb-28 	|            [CNF and PDA](https://github.com/adiesha/CSCI338Spring2025/tree/master/Notes/Lecture17_CNF_and_PDA)           	|           	                                    |
+|     19    	| Mon-Mar-03 	|            [Pumping Lemma for CFL](https://github.com/adiesha/CSCI338Spring2025/tree/master/Notes/Lecture18_CFL_Pumping_lemma)            	|           	                                    |
 |     20    	| Wed-Mar-05 	|                 Countability                	|           	                                    |
 |     21    	| Fri-Mar-07 	|    Diagonalization, Church turing thesis    	|           	                                    |
 |     22    	| Mon-Mar-10 	|               Turing machines               	|           	                                    |
