@@ -35,9 +35,9 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 |           	| Mon-Mar-17 	|                                             	|           	                                    |
 |           	| Wed-Mar-19 	|                 Spring break                	|           	                                    |
 |           	| Fri-Mar-21 	|                                             	|           	                                    |
-|     25    	| Mon-Mar-24 	|                Undecidability               	|           	                                    |
-|     26    	| Wed-Mar-26 	|                 Reducability                	|           	                                    |
-|     27    	| Fri-Mar-28 	|                 Reducability                	|           	                                    |
+|     25    	| Mon-Mar-24 	|                [Decidability-CFGs](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture23_Decidability_of_languages_related_to_CFG/Decidability%20of%20languages%20on%20CFL_250324_114749.pdf)               	| Ch 4          	                                    |
+|     26    	| Wed-Mar-26 	|                 [Undecidability](https://github.com/adiesha/CSCI338Spring2025/tree/master/Notes/Lecture24_Undecidability)                	|           	                                    |
+|     27    	| Fri-Mar-28 	|                 [Basics of Reduction](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture25_Basics_of_reductions/Basics%20of%20Reduction_250328_114538.pdf)                	| Ch 5           	                                    |
 |     28    	| Mon-Mar-31 	|                 Reducability                	|           	                                    | 
 |     29    	| Wed-Apr-02 	|                 Reducability                	|           	                                    |
 |     30    	| Fri-Apr-04 	|                     PCP                     	|           	                                    |
