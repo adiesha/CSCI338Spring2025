@@ -38,13 +38,13 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 |     25    	| Mon-Mar-24 	|                [Decidability-CFGs](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture23_Decidability_of_languages_related_to_CFG/Decidability%20of%20languages%20on%20CFL_250324_114749.pdf)               	| Ch 4          	                                    |
 |     26    	| Wed-Mar-26 	|                 [Undecidability](https://github.com/adiesha/CSCI338Spring2025/tree/master/Notes/Lecture24_Undecidability)                	|           	                                    |
 |     27    	| Fri-Mar-28 	|                 [Basics of Reduction](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture25_Basics_of_reductions/Basics%20of%20Reduction_250328_114538.pdf)                	| Ch 5           	                                    |
-|     28    	| Mon-Mar-31 	|                 Reducability                	|           	                                    | 
-|     29    	| Wed-Apr-02 	|                 Reducability                	|           	                                    |
-|     30    	| Fri-Apr-04 	|                     PCP                     	|           	                                    |
-|     31    	| Mon-Apr-07 	|                Test 2 review                	|           	                                    |
-|     32    	| Wed-Apr-09 	| Test 2 (Tentative, I might change the date) 	|           	                                    |
-|     33    	| Fri-Apr-11 	|                  Class of P                 	|           	                                    |
-|     34    	| Mon-Apr-14 	|                      DP                     	|           	                                    |
+|     28    	| Mon-Mar-31 	|                 [Undecidability](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture26_Undecidability_With_Reduction/Undecidability%20with%20reductions_250331_121816.pdf)                	|   Ch 5        	                                    | 
+|     29    	| Wed-Apr-02 	|                 [More Undecidability proofs](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture27_More_Undecidability_Proofs/More_Undecidability_Proofs.pdf)                	|           	                                    |
+|     30    	| Fri-Apr-04 	|                     [Undecidability with Computational History](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture28_Reductions_Via_Comp_Hist/Reductions%20via%20computation%20histories_250406_123923.pdf)                     	|           	                                    |
+|     31    	| Mon-Apr-07 	|                PCP and Map Reducibillity                	|           	                                    |
+|     32    	| Wed-Apr-09 	| Computational Complexity and Review Test 2 	|           	                                    |
+|     33    	| Fri-Apr-11 	|                       Test 2            	|           	                                    |
+|     34    	| Mon-Apr-14 	|                     Class of P DP                     	|           	                                    |
 |     35    	| Wed-Apr-16 	|                      NP                     	|           	                                    |
 |           	| Fri-Apr-18 	|                University Day               	|           	                                    |
 |     36    	| Mon-Apr-21 	|             Polynomial reduction            	|           	                                    |
