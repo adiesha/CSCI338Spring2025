@@ -49,10 +49,10 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 |           	| Fri-Apr-18 	|                University Day               	|           	                                    |
 |     36    	| Mon-Apr-21 	|             Polynomial reduction            	|           	                                    |
 |     37    	| Wed-Apr-23 	|             Polynomial reduction            	|           	                                    |
-|     38    	| Fri-Apr-25 	| Test 3 (Tentative, I might change the date) 	|           	                                    |
+|     38    	| Fri-Apr-25 	|  	|           	                                    |
 |     39    	| Mon-Apr-28 	|                 Buffer days                 	|           	                                    |
 |     40    	| Wed-Apr-30 	|                 Buffer days                 	|           	                                    |
-|     41    	| Fri-May-02 	|                 Buffer days                 	|           	                                    |
+|     41    	| Fri-May-02 	|                 Test 3                      	|           	                                    |
 |     42    	| Mon-May-05 	|                    Finals                   	|           	                                    |
 |     43    	| Wed-May-07 	|                      -                      	|           	                                    | 
 
