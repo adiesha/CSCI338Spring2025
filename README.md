@@ -49,7 +49,7 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 |           	| Fri-Apr-18 	|                University Day               	|           	                                    |
 |     36    	| Mon-Apr-21 	|             [Class of NP](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture33_class_of_NP/Class_of_NP_250423_130337.pdf)            	|       Ch 7    	                                    |
 |     37    	| Wed-Apr-23 	|             [NP-Completeness introduction](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture34_NP_Completeness/NP-completeness_250422_235251.pdf)            	| Ch 7           	                                    |
-|     38    	| Fri-Apr-25 	|  	|           	                                    |
+|     38    	| Fri-Apr-25 	|  	Polynomial time reductions|           	                                    |
 |     39    	| Mon-Apr-28 	|                 NP-Complete problems                 	|           	                                    |
 |     40    	| Wed-Apr-30 	|                 NP-complete problems                 	|           	                                    |
 |     41    	| Fri-May-02 	|                 Test 3                      	|           	                                    |
