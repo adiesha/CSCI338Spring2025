@@ -49,9 +49,9 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 |           	| Fri-Apr-18 	|                University Day               	|           	                                    |
 |     36    	| Mon-Apr-21 	|             [Class of NP](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture33_class_of_NP/Class_of_NP_250423_130337.pdf)            	|       Ch 7    	                                    |
 |     37    	| Wed-Apr-23 	|             [NP-Completeness introduction](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture34_NP_Completeness/NP-completeness_250422_235251.pdf)            	| Ch 7           	                                    |
-|     38    	| Fri-Apr-25 	|  	Polynomial time reductions|           	                                    |
-|     39    	| Mon-Apr-28 	|                 NP-Complete problems                 	|           	                                    |
-|     40    	| Wed-Apr-30 	|                 NP-complete problems                 	|           	                                    |
+|     38    	| Fri-Apr-25 	|  	[NP-completeness cont](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture35_NP_completeness_cont/NP-completeness_cont_250425_114146.pdf)       |           	                                    |
+|     39    	| Mon-Apr-28 	|                 [Polynomial time reductions](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture36_polynomial_Time_reductions/Polynomial%20time%20reductions_250428_142431.pdf)                 	|           	                                    |
+|     40    	| Wed-Apr-30 	|                 [NP-Complete proofs](https://github.com/adiesha/CSCI338Spring2025/blob/master/Notes/Lecture37_NP_Completeness_Proofs/NP_Complete_Proofs.pdf)                 	|           	                                    |
 |     41    	| Fri-May-02 	|                 Test 3                      	|           	                                    |
 |     42    	| Mon-May-05 	|                    Finals                   	|           	                                    |
 |     43    	| Wed-May-07 	|                      -                      	|           	                                    | 
